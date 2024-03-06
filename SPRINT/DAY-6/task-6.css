@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #filter {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  #posts-container {
+  
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .post {
+    border-radius: 30px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .post h2 {
+    margin-top: 0;
+  }
+  
+  #loading {
+    display: none;
+    text-align: center;
+  }
+  
